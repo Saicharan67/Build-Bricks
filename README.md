@@ -1,3 +1,7 @@
+## This is a basic React Project
+
+### - Here You can Add bricks by clicking on Button
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
